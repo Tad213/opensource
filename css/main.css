@@ -13,7 +13,12 @@ html {
     font-size: 1em;
     line-height: 1.4;
 }
-
+/*
+*This is so we don't have to put body css on every page
+*/
+body{
+	text-align: center;
+}
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
